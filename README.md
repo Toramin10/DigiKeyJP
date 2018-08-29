@@ -7,5 +7,5 @@ Replace original header files "DigiKeyboard.h" and "scancode-ascii-table.h" with
 ## License
 It totally depends on what Digistump said. 
 
-##Copyright
+## Copyright
 All rights belog to Digistump or the groups specified by Digistump. 
